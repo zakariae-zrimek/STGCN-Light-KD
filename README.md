@@ -3,6 +3,8 @@
 This repository provides the implementation of our paper "Enhanced Knee Osteoarthritis Diagnosis with 3D Skeletons Data Analysis using Light STGCN and Knowledge Distillation" (under submission).
 
 ![Project Overview](images/floawchart.png)
+![Project Overview](images/floawchart.png)
+
 
 
 Figure 1: Overview of our proposed method. We employ a lightweight STGCN-GRU model with knowledge distillation to analyze 3D skeleton data for knee osteoarthritis (KOA) assessment. Our approach captures complex spatio-temporal features and focuses on relevant joints for accurate diagnosis.
