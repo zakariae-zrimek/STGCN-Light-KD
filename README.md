@@ -3,7 +3,7 @@
 This repository provides the implementation of our paper "Enhanced Knee Osteoarthritis Diagnosis with 3D Skeletons Data Analysis using Light STGCN and Knowledge Distillation" (under submission).
 
 ![Project Overview](images/floawchart.png)
-![Project Overview](images/floawchart.png)
+![Project Overview](images/stgcn_vs_light.png)
 
 
 
